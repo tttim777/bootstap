@@ -133,6 +133,10 @@ body {
     margin-right: 3%;
 }
 
+.table tbody>tr>td.vert-align {
+    vertical-align: middle;
+}
+
 textarea.form-control {
     height: 200px;
 }
